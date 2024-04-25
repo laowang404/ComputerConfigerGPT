@@ -21,6 +21,13 @@ def scrape_products():
         name = product_element.find_element(By.CSS_SELECTOR, ".pro-intro h3 a").text
         price = product_element.find_element(By.CSS_SELECTOR, ".price-box .price").text
 
+
+        try:
+            jdprice = product_element.find_element(By.CSS_SELECTOR, ".jd.shop-click").text
+            # print(jdprice)
+        except:
+            jdprice = '暂无京东价格'
+
         parameters_elements = product_element.find_elements(By.CSS_SELECTOR, ".paramet span")
         parameters = {}
 
@@ -40,6 +47,7 @@ def scrape_products():
         product = {
             "name": name,
             "price": price,
+            "jdprice": jdprice,
             "parameters": parameters
         }
 
@@ -79,6 +87,7 @@ while True:
         
     except Exception as e:
         print(f"翻页失败: {e}")
+        driver.quit()
         break
 
 # 关闭浏览器
