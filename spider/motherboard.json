@@ -1,0 +1,1081 @@
+[
+    {
+        "name": "华硕B760M-P",
+        "price": "999",
+        "jdprice": "999",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR5 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "铭瑄 MS-挑战者 B760M",
+        "price": "749",
+        "jdprice": "629",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "技嘉Z790 UD",
+        "price": "1749",
+        "jdprice": "1679",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "微星PRO B760M-B DDR5",
+        "price": "699",
+        "jdprice": "679",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR5 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "七彩虹CVN B760I FROZEN WIFI V20",
+        "price": "1199",
+        "jdprice": "949",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Mini-ITX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "影驰Z790金属大师D5 Wi-Fi白金版",
+        "price": "1999",
+        "jdprice": "1399",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG MAXIMUS Z790 HERO",
+        "price": "5499",
+        "jdprice": "4999",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME H610M-A D4",
+        "price": "779",
+        "jdprice": "699",
+        "parameters": {
+            "主芯片组": "Intel H610",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B760M-PLUS D4重炮手",
+        "price": "1249",
+        "jdprice": "1169",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "微星PRO H610M-E DDR4",
+        "price": "599",
+        "jdprice": "579",
+        "parameters": {
+            "主芯片组": "Intel H610",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME B660M-K D4",
+        "price": "899",
+        "jdprice": "635",
+        "parameters": {
+            "主芯片组": "Intel B660",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B760M-PLUS WIFI D4重炮手",
+        "price": "1299",
+        "jdprice": "1149",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "技嘉B760 AORUS ELITE AX",
+        "price": "1799",
+        "jdprice": "1479",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "内存类型": "4×DDR5 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "微星MAG B760M MORTAR",
+        "price": "1349",
+        "jdprice": "1199",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR5 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "微星H610M BOMBER DDR4",
+        "price": "749",
+        "jdprice": "549",
+        "parameters": {
+            "主芯片组": "Intel H610",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG STRIX Z790-A GAMING WIFI吹雪",
+        "price": "2899",
+        "jdprice": "2699",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME B760M-K D4",
+        "price": "999",
+        "jdprice": "999",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B650M-PLUS WIFI",
+        "price": "1499",
+        "jdprice": "1399",
+        "parameters": {
+            "主芯片组": "AMD B650",
+            "CPU插槽": "Socket AM5",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕TX GAMING B760M WIFI",
+        "price": "1249",
+        "jdprice": "1269",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR5 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "技嘉H610M H DDR4",
+        "price": "699",
+        "jdprice": "559",
+        "parameters": {
+            "主芯片组": "Intel H610",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕TX GAMING B760M WIFI D4",
+        "price": "1299",
+        "jdprice": "1199",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "微星B450M MORTAR MAX",
+        "price": "449",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "AMD B450",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG STRIX Z790-A GAMING WIFI D4",
+        "price": "2999",
+        "jdprice": "2479",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME H610M-K D4",
+        "price": "749",
+        "jdprice": "659",
+        "parameters": {
+            "主芯片组": "Intel H610",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME Z790-P",
+        "price": "1899",
+        "jdprice": "1898",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "铭瑄 MS-终结者 B760M D4",
+        "price": "899",
+        "jdprice": "749",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "铭瑄 MS-终结者 B760M D4 WIFI",
+        "price": "999",
+        "jdprice": "799",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "华硕PRIME B650M-K",
+        "price": "1099",
+        "jdprice": "1099",
+        "parameters": {
+            "主芯片组": "AMD B650",
+            "CPU插槽": "Socket AM5",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "微星MEG Z790 GODLIKE",
+        "price": "8999",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "E-ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "七彩虹B760 BATTLE-AX B760M-WHITE WIFI V2",
+        "price": "799",
+        "jdprice": "779",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "支持适配主"
+        }
+    },
+    {
+        "name": "微星B760M BOMBER DDR4",
+        "price": "899",
+        "jdprice": "709",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "微星B450M-A PRO MAX",
+        "price": "499",
+        "jdprice": "419",
+        "parameters": {
+            "主芯片组": "AMD B450",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第三代/第"
+        }
+    },
+    {
+        "name": "技嘉B650M AORUS ELITE AX",
+        "price": "1499",
+        "jdprice": "1349",
+        "parameters": {
+            "主芯片组": "AMD B650",
+            "CPU插槽": "Socket AM5",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "技嘉B550M AORUS ELITE",
+        "price": "699",
+        "jdprice": "679",
+        "parameters": {
+            "主芯片组": "AMD B550",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "微星MAG B460M MORTAR",
+        "price": "769",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel B460",
+            "CPU插槽": "LGA 1200",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "七彩虹H610M-E M.2 V20",
+        "price": "499",
+        "jdprice": "489",
+        "parameters": {
+            "主芯片组": "Intel H610",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第十二代"
+        }
+    },
+    {
+        "name": "技嘉B760M GAMING",
+        "price": "789",
+        "jdprice": "779",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR5 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "七彩虹CVN B650 GAMING FROZEN V14",
+        "price": "1349",
+        "jdprice": "1279",
+        "parameters": {
+            "主芯片组": "AMD B650",
+            "CPU插槽": "Socket AM5",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "微星MAG B760M MORTAR MAX WIFI",
+        "price": "1549",
+        "jdprice": "1279",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR5 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "微星A520M-A PRO",
+        "price": "499",
+        "jdprice": "449",
+        "parameters": {
+            "主芯片组": "AMD A520",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "微星B660M BOMBER DDR4",
+        "price": "799",
+        "jdprice": "799",
+        "parameters": {
+            "主芯片组": "Intel B660",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "微星B450M MORTAR",
+        "price": "799",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "AMD B450",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "微星B360M MORTAR",
+        "price": "769",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel B360",
+            "CPU插槽": "LGA 1151",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "精粤B760M GAMING D4",
+        "price": "434",
+        "jdprice": "429",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第十二代"
+        }
+    },
+    {
+        "name": "铭瑄 MS-挑战者 H610M",
+        "price": "599",
+        "jdprice": "419",
+        "parameters": {
+            "主芯片组": "Intel H610",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "铭瑄 MS-挑战者B650M WiFi",
+        "price": "729",
+        "jdprice": "679",
+        "parameters": {
+            "主芯片组": "Intel B650",
+            "CPU插槽": "Socket AM5",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "微星B450M-A PRO MAX II",
+        "price": "489",
+        "jdprice": "529",
+        "parameters": {
+            "主芯片组": "AMD B450",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第三代/第"
+        }
+    },
+    {
+        "name": "技嘉Z790M AORUS ELITE AX ICE",
+        "price": "1799",
+        "jdprice": "1799",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "铭瑄 MS-终结者 Z790M D5 WIFI",
+        "price": "1599",
+        "jdprice": "1199",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "技嘉Z790 UD AX",
+        "price": "2099",
+        "jdprice": "1699",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "微星B760M BOMBER WIFI",
+        "price": "899",
+        "jdprice": "829",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR5 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "微星PRO Z690-A WIFI DDR4",
+        "price": "1799",
+        "jdprice": "1199",
+        "parameters": {
+            "主芯片组": "Intel Z690",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十二代 C"
+        }
+    },
+    {
+        "name": "微星MAG B550M MORTAR WIFI",
+        "price": "849",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "AMD B550",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "技嘉B760M GAMING DDR4",
+        "price": "999",
+        "jdprice": "719",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "微星PRO B760M-E",
+        "price": "799",
+        "jdprice": "679",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR5 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "七彩虹CVN Z790D5 GAMING FROZEN V20",
+        "price": "1999",
+        "jdprice": "1479",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "微星MAG B550M MORTAR",
+        "price": "799",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "AMD B550",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "技嘉B450M DS3H",
+        "price": "499",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "AMD B450",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG STRIX B760-G GAMING WIFI",
+        "price": "1499",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "内存类型": "4×DDR5 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "华硕PRIME A520M-K",
+        "price": "499",
+        "jdprice": "459",
+        "parameters": {
+            "主芯片组": "AMD A520",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕B760M-AYW WIFI D4",
+        "price": "999",
+        "jdprice": "999",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "2×DDR4 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "华硕PRIME H510M-K",
+        "price": "599",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel H510",
+            "CPU插槽": "LGA 1200",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B550M-PLUS",
+        "price": "799",
+        "jdprice": "799",
+        "parameters": {
+            "主芯片组": "AMD B550",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF B360M-PLUS GAMING S",
+        "price": "879",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel B360",
+            "CPU插槽": "LGA 1151",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "影驰H610M光影",
+        "price": "599",
+        "jdprice": "439",
+        "parameters": {
+            "主芯片组": "Intel H610",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING Z790-PLUS WIFI D4",
+        "price": "2299",
+        "jdprice": "2099",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME Z790-P WIFI",
+        "price": "1999",
+        "jdprice": "1999",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG MAXIMUS Z790 EXTREME",
+        "price": "9999",
+        "jdprice": "9499",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "E-ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "技嘉B760M AORUS ELITE AX",
+        "price": "1349",
+        "jdprice": "1179",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR5 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "铭瑄 MS-挑战者B450M",
+        "price": "389",
+        "jdprice": "359",
+        "parameters": {
+            "主芯片组": "AMD B450",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B550M-PLUS WIFI II",
+        "price": "849",
+        "jdprice": "849",
+        "parameters": {
+            "主芯片组": "AMD B550",
+            "CPU插槽": "Socket AM4",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B660M-PLUS D4",
+        "price": "1099",
+        "jdprice": "1199",
+        "parameters": {
+            "主芯片组": "Intel B660",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "技嘉B760M AORUS ELITE AX DDR4",
+        "price": "1299",
+        "jdprice": "1179",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Micro ATX板型",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十四代"
+        }
+    },
+    {
+        "name": "华硕PRIME Z370-P",
+        "price": "949",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel Z370",
+            "CPU插槽": "LGA 1151",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG STRIX B760-G GAMING WIFI D4",
+        "price": "1499",
+        "jdprice": "1399",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "内存类型": "4×DDR4 DIMM",
+            "CPU类型": "第十三代",
+            "存储接口": "2×M.2接口"
+        }
+    },
+    {
+        "name": "华硕PRIME B650-PLUS",
+        "price": "1699",
+        "jdprice": "1299",
+        "parameters": {
+            "主芯片组": "AMD B650",
+            "CPU插槽": "Socket AM5",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG STRIX B660-A GAMING WIFI D4",
+        "price": "1589",
+        "jdprice": "1699",
+        "parameters": {
+            "主芯片组": "Intel B660",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕P8B75-V",
+        "price": "779",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel B75",
+            "CPU插槽": "LGA 1155",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR3 DIMM"
+        }
+    },
+    {
+        "name": "微星Z790 PRO Z790-A MAX WIFI",
+        "price": "2199",
+        "jdprice": "1899",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG STRIX Z690-A GAMING WIFI",
+        "price": "2699",
+        "jdprice": "999",
+        "parameters": {
+            "主芯片组": "Intel Z690",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME A620M-K",
+        "price": "849",
+        "jdprice": "849",
+        "parameters": {
+            "主芯片组": "AMD A620",
+            "CPU插槽": "Socket AM5",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B560M-PLUS",
+        "price": "869",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel B560",
+            "CPU插槽": "LGA 1200",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华南金牌X99-TF",
+        "price": "608",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "CPU插槽": "LGA 2011-3",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR3 DIMM，4"
+        }
+    },
+    {
+        "name": "华硕PRIME X670-P",
+        "price": "2299",
+        "jdprice": "2199",
+        "parameters": {
+            "主芯片组": "AMD X670",
+            "CPU插槽": "Socket AM5",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "技嘉Z790 AORUS PRO X WIFI7",
+        "price": "3999",
+        "jdprice": "3399",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME Z390-P",
+        "price": "1299",
+        "jdprice": "386",
+        "parameters": {
+            "主芯片组": "Intel Z390",
+            "CPU插槽": "LGA 1151",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕PRIME B365M-K",
+        "price": "699",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel B365",
+            "CPU插槽": "LGA 1151",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "2×DDR4 DIMM"
+        }
+    },
+    {
+        "name": "华硕ROG STRIX B760-I GAMING WIFI",
+        "price": "1899",
+        "jdprice": "1749",
+        "parameters": {
+            "主芯片组": "Intel B760",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "Mini-ITX板型",
+            "内存类型": "2×DDR5 DIMM",
+            "CPU类型": "第十三代"
+        }
+    },
+    {
+        "name": "技嘉Z790 AORUS ELITE X WIFI7",
+        "price": "2999",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel Z790",
+            "CPU插槽": "LGA 1700",
+            "主板板型": "ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR5 DIMM"
+        }
+    },
+    {
+        "name": "华硕TUF GAMING B460M-PLUS",
+        "price": "829",
+        "jdprice": "暂无京东价格",
+        "parameters": {
+            "主芯片组": "Intel B460",
+            "CPU插槽": "LGA 1200",
+            "主板板型": "Micro ATX板型",
+            "集成芯片": "声卡/网卡",
+            "内存类型": "4×DDR4 DIMM"
+        }
+    }
+]
