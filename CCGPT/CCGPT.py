@@ -25,6 +25,18 @@ class CCGPT():
         self.spider = WebSpider()
         self.GPT = GPT()
         self.assistant = Assistant()
+
+        self.prompt_dict = {
+            "询问CPU": "cpu",
+            "询问主板": "motherboard",
+            "询问内存": "memory",
+            "询问硬盘": "harddisk",
+            "询问显卡": "graphicscard",
+            "询问显示器": "monitor",
+            "询问机箱": "chassis",
+            "询问电源": "power",
+            "询问固态": "ssd",
+        }
         pass
 
     def get_logger(self):
@@ -65,6 +77,7 @@ class CCGPT():
                 next_scentence = (input_message, "user")
                 flag = "GPT"
             elif flag == 'assistant':
+                # import pdb; pdb.set_trace()
                 responce = self.assistant.chat(*next_scentence)
                 print(responce)
                 self.logger.info(f"Assistant: {responce}")
@@ -91,7 +104,8 @@ class CCGPT():
             if line.startswith("询问客户"):
                 return "user", (line, "GPT")
             if line.startswith("询问"):
-                return "assistant", (line, "GPT")
+                hardware = line.split("：")[0]
+                return "assistant", (line, hardware)
             
         logging.warning("可能有错误")
         return "user", "可能有错误"

@@ -19,14 +19,14 @@ class Assistant():
         self.template_dict = {"hardware": None}
 
         self.hw_translator = {
-            "CPU": ["cpu"],
-            "主板": ["motherboard"],
-            "内存": ["memory"],
-            "硬盘": ["ssd", "harddisk"],
-            "显卡": ["graphicscard"],
-            "显示器": ["monitor"],
-            "机箱": ["chassis"],
-            "电源": ["power"],
+            "询问CPU": ["cpu"],
+            "询问主板": ["motherboard"],
+            "询问内存": ["memory"],
+            "询问硬盘": ["ssd", "harddisk"],
+            "询问显卡": ["graphicscard"],
+            "询问显示器": ["monitor"],
+            "询问机箱": ["chassis"],
+            "询问电源": ["power"],
         }
 
         self.callback = "您好，请问您需要什么类型的$hardware？"
@@ -37,8 +37,10 @@ class Assistant():
         :return: data_content: str
         """
         union_data = []
+      
+
         for hw in self.hw_translator[hardware]:
-            with open(f"spider/{hardware}.json", "r", encoding="utf-8") as file:
+            with open(f"spider/{hw}.json", "r", encoding="utf-8") as file:
                 data = json.load(file)
                 # Delete elements that jdprice is None
                 data = [item for item in data if item["jdprice"]!="暂无京东价格"]
@@ -64,23 +66,27 @@ class Assistant():
         self.template_dict["hardware"] = hardware
         sys_prompt = self.sys_prompt_template.safe_substitute(self.template_dict)
 
-        # Load the data from the file
-        data_content = self.__load_data(hardware)
+        try:
+            # Load the data from the file
+            data_content = self.__load_data(hardware)
 
-        messages = [
-            {"role": "system", "content": sys_prompt},
-            {"role": "user", "content": data_content},
-            {"role": "assistant", "content": self.callback},
-            {"role": "user", "content": message}
-        ]
+            messages = [
+                {"role": "system", "content": sys_prompt},
+                {"role": "user", "content": data_content},
+                {"role": "assistant", "content": self.callback},
+                {"role": "user", "content": message}
+            ]
 
-        # responce = input("请输入硬件专家的指导：")
-        response = self.client.chat.completions.create(
-            model="glm-3-turbo",  # 填写需要调用的模型名称
-            messages=messages,
-        )
+            # responce = input("请输入硬件专家的指导：")
+            response = self.client.chat.completions.create(
+                model="glm-3-turbo",  # 填写需要调用的模型名称
+                messages=messages,
+            )
 
-        return response.choices[0].message.content
+            return response.choices[0].message.content
+        except Exception as e:
+            print(e)
+            return "对不起，我无法理解您的问题。"
 
     def start(self):
         pass
