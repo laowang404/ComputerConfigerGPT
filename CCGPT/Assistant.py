@@ -41,7 +41,7 @@ class Assistant():
 
         for hw in self.hw_translator[hardware]:
             with open(f"spider/{hw}.json", "r", encoding="utf-8") as file:
-                data = json.load(file)
+                data = json.load(file)[:50]
                 # Delete elements that jdprice is None
                 data = [item for item in data if item["jdprice"]!="暂无京东价格"]
                 union_data.extend(data)

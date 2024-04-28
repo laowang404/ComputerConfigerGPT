@@ -70,8 +70,10 @@ class CCGPT():
         flag = "user"
         next_scentence = "请输出相关"
         while True:
+            print("------------------")
             if flag == "user":
                 input_message = input("请输入你的回应：")
+                # import pdb; pdb.set_trace()
                 # 
                 self.logger.info(f"User: {input_message}")
                 next_scentence = (input_message, "user")
