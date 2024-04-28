@@ -31,22 +31,21 @@ class Assistant():
 
         self.callback = "您好，请问您需要什么类型的$hardware？"
 
-    def __load_data(self, hardware:str):
+    def __load_data(self, hardware: str):
         """
         :param hardware:
         :return: data_content: str
         """
         union_data = []
-      
 
         for hw in self.hw_translator[hardware]:
             with open(f"spider/{hw}.json", "r", encoding="utf-8") as file:
-                data = json.load(file)[:50]
+                data = json.load(file)
                 # Delete elements that jdprice is None
-                data = [item for item in data if item["jdprice"]!="暂无京东价格"]
-                union_data.extend(data)
+                data = [item for item in data if item["jdprice"] != "暂无京东价格"]
+                union_data.extend(data[:50])
 
-        data_content = json.dumps(data, ensure_ascii=False)
+        data_content = json.dumps(union_data, ensure_ascii=False)
         data_content = "信息更新：" + data_content
 
         return data_content
@@ -54,7 +53,7 @@ class Assistant():
     def train(self):
         pass
 
-    def chat(self, message:str, hardware:str):
+    def chat(self, message: str, hardware: str):
         """
         :param message: chat message
         :param hardware: specific hardware expert
