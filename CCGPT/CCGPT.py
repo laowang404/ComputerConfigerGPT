@@ -42,7 +42,7 @@ class CCGPT():
     def get_logger(self):
         logger = logging.getLogger(__name__)
         logger.setLevel(level = self.log_level)
-        handler = logging.FileHandler(self.log_file)
+        handler = logging.FileHandler(self.log_file ,encoding="utf-8")
         handler.setLevel(logging.INFO)
         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
         handler.setFormatter(formatter)
@@ -99,18 +99,19 @@ class CCGPT():
         pass
 
     def select_chatter(self, response):
-        res_splt = response.split("\n")
+        res_splt = response.split("\n\n")
         # import pdb ; pdb.set_trace()
-        print()
+        # print()
         for line in res_splt:
             if line.startswith("询问客户"):
                 return "user", (line, "GPT")
             if line.startswith("询问"):
                 hardware = line.split("：")[0]
                 return "assistant", (line, hardware)
-            
-        logging.warning("可能有错误")
-        return "user", "可能有错误"
+        
+        regeneration_prompt = "请你严格按照回复格式重新回复"
+        self.logger.warning("可能有错误")
+        return "GPT", (regeneration_prompt, "user")
 
     def get_response(self):
         pass
