@@ -3,7 +3,7 @@ from zhipuai import ZhipuAI
 class GPT():
     def __init__(self) -> None:
         self.name = 'GPT'
-        self.client = ZhipuAI(api_key="9a0cb62c576a25d83a00ac432c5fcc7a.Wkl0gAJVDuvu1EAS")
+        self.client = ZhipuAI(api_key="")
         self.message = [
             {"role": "system", "content": "你是一名专业的台式机装机专家，知晓装机过程中的各种细节，能够根据客户的装机需求，提供可靠的装机方案。"
                                           "在配置过程中，你将需要询问其他的硬件专家关于当前硬件具体信息及对应价格，包括CPU、主板、内存、硬盘、显卡、显示器、机箱、电源，并确定这8项硬件的具体配置，请勿询问这8项以外的硬件。"
