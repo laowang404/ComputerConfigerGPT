@@ -18,7 +18,7 @@ class CCGPT():
     
     def __init__(self):
         current_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-        self.log_file = f"log_{current_time}.txt"
+        self.log_file = f"logs/log_{current_time}.txt"
         self.log_level = logging.INFO
         self.logger = self.get_logger()
 
