@@ -69,7 +69,7 @@ class CCGPT():
     def chat(self):
         flag = "user"
         next_scentence = "请输出相关"
-        while True:
+        while flag != "finish":
             print("------------------")
             if flag == "user":
                 input_message = input("请输入你的回应：")
@@ -107,11 +107,17 @@ class CCGPT():
                 return "user", (line, "GPT")
             if line.startswith("询问"):
                 hardware = line.split("：")[0]
-                return "assistant", (line, hardware)
+                # 如果hardware中包含“专家”，删除这两个字
+                hardware = hardware.replace("专家", "")
+                if hardware in self.prompt_dict.keys():
+                    return "assistant", (line, hardware)
+                else:
+                    regeneration_prompt = "请你严格按照回复格式重新回复，每次请求只允许询问一个硬件的信息。"
+                    return "GPT", (regeneration_prompt, "user")
         
-        regeneration_prompt = "请你严格按照回复格式重新回复"
-        self.logger.warning("可能有错误")
-        return "GPT", (regeneration_prompt, "user")
+        # regeneration_prompt = "请你严格按照回复格式重新回复"
+        self.logger.info("------------配置完成------------")
+        return "finish", None
 
     def get_response(self):
         pass
